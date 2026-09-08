@@ -1,0 +1,9 @@
+# Global Companies Data Guide
+
+Open guide to the BigPicture global companies dataset (17M+ companies, ODC-BY).
+
+- Repo: https://github.com/lu7897859-tech/global-companies-data-guide
+- Source data: https://huggingface.co/datasets/bigpictureio/companies-2023-q4-sm
+- License: CC0 (this guide) / ODC-BY (source data)
+
+Key topics: global company data, B2B lead generation, supplier due diligence, market structure analysis, company schema (name/website/size/year_founded/industry/city/linkedin_url).
