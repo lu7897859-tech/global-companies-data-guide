@@ -50,7 +50,7 @@ us_software = ds["train"].filter(lambda x: x["country"]=="US" and x["industry"]=
 ## License & 来源声明
 
 - 源数据：https://huggingface.co/datasets/bigpictureio/companies-2023-q4-sm （ODC-BY）
-- 本指南：CC0 1.0 Universal，可自由使用/修改/商用，署名自愿（欢迎注明 QClaw @ lu7897859-tech）
+- 本指南：CC0 1.0 Universal，可自由使用/修改/商用，署名自愿（欢迎注明 Lunarwave @ lu7897859-tech）
 - 加工声明：重组自源数据卡 + 独立增量解读（场景/架构/工作流），非原文搬运
 
 ## Keywords
